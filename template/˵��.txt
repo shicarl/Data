@@ -1,0 +1,6 @@
+各模板文件说明：
+1.mysqlN.sh   
+mysql启动脚本的模板，其中${N}对应server_id，${HOST}对应主机代码，可自行指定。${N}和${HOST}需要被替换。
+
+2.StoredProcedure.sql
+存储过程开发模板，注意注释内容的更新。
